@@ -1,9 +1,9 @@
 {
   "firebase": {
     "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "domain": "gamejam2017-ede5d.firebaseapp.com",
+    "database": "https://gamejam2017-ede5d.firebaseio.com",
+    "api": "AIzaSyD1-N4F6-SF7puKtixUiLIrZ1kSrNXVOyU",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
@@ -14,9 +14,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GameJam Mallorca 2017",
+          "youtubeId": "M6IyhtGA-lw",
+          "text": "Mira cómo fue el año pasado"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -91,10 +91,6 @@
     {
       "name": "English",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -150,8 +146,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "mallorcagdg@gmail.com",
+        "url": "mailto:mallorcagdg@gmail.com"
       }
     ]
   },
@@ -190,16 +186,16 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": "+50",
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
+      "counter": 48,
+      "caption": "hours"
     },
     {
-      "counter": 30,
-      "caption": "sessions"
+      "counter": "+10",
+      "caption": "games"
     },
     {
       "counter": 3,
@@ -210,8 +206,8 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMallorca",
+      "url": "https://twitter.com/gdgmallorca"
     },
     {
       "name": "gplus",
@@ -244,13 +240,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 39.5553113,
+      "longitude": 2.617897,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 39.5534794,
+      "longitude": 2.6294219
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -261,6 +257,6 @@
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "cBB5K4U9Z4o"
   }
 }
