@@ -1,7 +1,7 @@
 {
   "name": "hoverboard",
   "authors": [
-    "Oleh Zasadnyy, GDG Lviv"
+    "GDG Mallorca, based on GDG Lviv"
   ],
   "private": true,
   "dependencies": {

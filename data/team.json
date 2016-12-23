@@ -3,214 +3,77 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Santi Iglesias",
+        "photoUrl": "/images/people/ianholing.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/113841534482981360303",
             "name": "Google+"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
-          },
-          {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/ianholing",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
+            "link": "http://www.ekameno.com/",
+            "name": "Web"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Co-organizador"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Manu Jimenez",
+        "photoUrl": "/images/people/tortill4.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/+ManuelJim%C3%A9nezTorres",
             "name": "Google+"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
+            "icon": "twitter",
+            "link": "https://twitter.com/tortill4",
+            "name": "Twitter"
           }
         ],
-        "title": "Social and media"
+        "title": "Co-organizador"
       },
       {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "name": "Juan Miguel Liras",
+        "photoUrl": "/images/people/sekongur.jpeg",
         "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/113451672881332358349",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/sekongur",
+            "name": "Twitter"
+          },
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
+            "link": "https://es.linkedin.com/in/juan-miguel-liras-balaguer-610b2131",
+            "name": "Linked-in"
           }
         ],
-        "title": "Speakers"
+        "title": "Co-organizador"
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Xisco Ferrer",
+        "photoUrl": "/images/people/xisco.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
+            "link": "https://plus.google.com/u/0/114625272534915059127",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
-        ],
-        "title": "Android Stream"
+        "title": "Co-organizador"
       }
     ]
   }
