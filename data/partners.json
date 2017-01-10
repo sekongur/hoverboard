@@ -3,17 +3,45 @@
     "title": "general-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
         "name": "Hotel Amic Horizonte",
         "url": "http://www.hotelamichorizonte.com/es/",
         "logoUrl": "../images/logos/horizonte.png",
         "width": 170,
         "height": 170
-      }
+      },
+      {
+        "name": "The Garage VR",
+        "url": "http://www.thegaragevr.es",
+        "logoUrl": "../images/logos/garagevr.jpg",
+        "width": 130,
+        "height": 130
+      },
+      {
+        "name": "Frogames",
+        "url": "http://www.frogames.es",
+        "logoUrl": "../images/logos/frogames.png",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "name": "Escuela EDIB",
+        "url": "http://www.grupofleming.com/web/escuelaedib.html",
+        "logoUrl": "../images/logos/logo-edib.png",
+        "width": 130,
+        "height": 130
+      },
+      {
+        "name": "Mallorca Game",
+        "url": "http://www.mallorcagame.es",
+        "logoUrl": "../images/logos/mallorcagame.png",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "name": "Google Developers Group",
+        "url": "https://developers.google.com",
+        "logoUrl": "../images/logos/gdg.png"
+      }      
     ]
   }
 ]
